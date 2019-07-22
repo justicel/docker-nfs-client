@@ -1,4 +1,4 @@
-FROM       alpine:latest
+FROM alpine:latest
 
 # USAGE
 # $ docker build -t nfs-client .
